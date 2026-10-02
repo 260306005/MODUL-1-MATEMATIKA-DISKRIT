@@ -20,16 +20,21 @@ Repositori dibat untuk melengkapi tugas praktikum modul 1 matematika diskrit, Re
 8. Pemilihan Calon Ketua
 # Alur Materi
 Bolean
- •xor
- •and
- •or
- •if-else
+
+• xor
+
+• and
+
+• or
+
+• if-else
+
 Testing
 # Menjalankan Program
 Pastikan Python Sudah Terinstal. 
 # Windows
 tekan Cari + R, lalu ketik cmd untuk membuka Command Prompt.
  
- '''bash
+ ~~~bash
  python nama_file.py
- '''
+ ~~~
