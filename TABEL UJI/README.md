@@ -15,7 +15,7 @@ Tabel pengujian digunakan untuk menguji setiap studi kasus dengan beberapa kombi
 ## 2. Sistem Beasiswa - AND
 
 | Nilai Tinggi | Aktif Organisasi | Kartu Aktif | Rekomendasi Beasiswa | Hasil |
-|---|---|---|---|
+|---|---|---|---|--|
 | True | True | True | Mendapat BEASISWA |
 | True | False | True | Tidak Mendapat BEASISWA |
 | False | True | False | Tidak Mendapat BEASISWA |
