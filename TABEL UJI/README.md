@@ -55,7 +55,7 @@ Tabel pengujian digunakan untuk menguji setiap studi kasus dengan beberapa kombi
 ## 6. Potongan Harga - OR
 
 | Pelajar | Member | Guru | Hasil |
-|---|---|---|
+|---|---|---|---|
 | True | False | False | Mendapat Potongan HARGA |
 | False | True | False | Mendapat Potongan HARGA |
 | False | False | True | Mendapat Potongan HARGA |
