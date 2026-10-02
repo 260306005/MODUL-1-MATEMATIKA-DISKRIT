@@ -1,0 +1,25 @@
+## CARA MENERAPKAN STUDI KASUS BOLEAN DARI AWAL
+Sebelum memulai menguji kasus BOLEAN pertama-tama ikuti langkah-langkah berikut. 
+
+# Menginstal python
+belum terinstalnya python mengakibatkan cmd tidak bisa di akses 
+
+eror:
+~~~bash
+'python' is not recognized as an internal or external command
+~~~
+python dapat di instal dengan instruksi sebagai berikut: 
+ 1. Buka browser anda lalu search website python atau kunjungi _python.org_
+ 2. Klik download lalu instal versi python yang mendukung perangkat anda.
+ 3. Setelah terinstal klik file python lalu mengikuti langkah-langkah yang diberikan python.
+
+# Cara Membuka Dan Mengoperasikan Python Di CMD
+ 1. _klik Windows + r_ lalu muncul pop-up
+ 2. di pop-up klik cmd lalu ok maka cmd akan terbuka
+ 3. untuk memastikan python telah terinstal ketik _python --version_ pada cmd
+ 4. kemudian untuk menulis code mulai dengan membuat file melalui notepad
+ 5. untuk membuka notepad melalui cmd klik notepad _nama_file.py_
+ 6. setelah menulis code dan di save klik _python nama_file.py_ pada cmd
+
+# Mengimplementasikan Kasus Bolean
+Setelah memahami langkah-langkah dalam mengakses cmd dan menulis code dalam notepad, kalian bisa mengimplementasikan 8 studi kasus BOLEAN yg berbeda, mulai dari operator AND, OR, dan XOR kedalam kasus yg telah di tulis. Kemudian mencoba eksperimen dalam kombinasi _true_ dan _false_ dalam setiap Variabel kasus
