@@ -33,7 +33,7 @@ Testing
 # Menjalankan Program
 Pastikan Python Sudah Terinstal. 
 # Windows
-tekan Cari + R, lalu ketik cmd untuk membuka Command Prompt.
+tekan windows + R, lalu ketik cmd untuk membuka Command Prompt.
  
  ~~~bash
  python nama_file.py
